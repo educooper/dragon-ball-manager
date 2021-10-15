@@ -44,7 +44,7 @@ Antes de iniciar :checkered_flag:, você precisa ter instalado o [Git](https://g
 
 ```bash
 # Clone este projeto
-$ git clone https://github.com/educooper/dio-contas-bancarias
+$ git clone https://github.com/educooper/dragon-ball-manager
 
 # Acesse
 $ cd dio-contas-bancarias
