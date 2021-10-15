@@ -68,7 +68,4 @@ $ yarn run cypress open
 
 ```
 
-## :coffee: Addicional Features / Recursos Adicionais 
-
-
 <a href="#top">Voltar ao Topo</a>
